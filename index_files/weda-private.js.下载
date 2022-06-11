@@ -1,0 +1,9 @@
+
+/**
+ * An empty js file. It will be overridden in private place.
+ *
+ * For example:
+ * ```javascript
+ * window._isPrivate = true
+ * ```
+ */
